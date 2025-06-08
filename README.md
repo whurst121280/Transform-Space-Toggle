@@ -2,7 +2,7 @@
 
 This is an addon for Blender that enables the user to set a hotkey to quickly toggle between Global and Local Transform spaces.
 
-When creating a rig in Maya you can hide and lock out specific transforms. For example, rotating a hand in local space only, moving it in world space only, and disabling scale completely. Maya makes this easy to do, per object. Blender only lets you manually switch the space used. This is slow and clunky. This addon makes that faster by allowing the user to set a hotkey in the Default Blender Keymap.
+Maya makes isolating spaces easy to do per object. Blender only lets you manually switch the space used for everything all at once. This is slow and clunky. This addon makes that faster by allowing the user to set a hotkey in the Default Blender Keymap.
 
 Install just like any other addon:
 <br>https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#prefs-extensions-install-legacy-addon</br>
